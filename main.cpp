@@ -8,6 +8,7 @@ Valor: 10 pontos
 Data: 30/09/2026
 *******************************************************************************/
 #include <iostream>
+#include <string>
 using namespace std;
 
 int main()
